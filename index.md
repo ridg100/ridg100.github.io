@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/ridg100/ridg100.github.io/
 
 <script src="https://scheduler-amgenpatientservices.cs36.force.com/lightning/lightning.out.js">
 </script>
+<br>
 
 <script>
 $Lightning.use("runtime_appointmentbooking:lightningOutGuest",
